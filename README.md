@@ -10,3 +10,9 @@ streamlit run app.py
 
 link demo :
 https://conciliacion-bancaria.streamlit.app/
+
+video 
+
+
+https://github.com/user-attachments/assets/1c48ea09-5014-4d4c-a3c9-5d1742cdf902
+
