@@ -1,0 +1,57 @@
+/* Fondo general */
+body, .stApp {
+    background-color: #0B1F3A !important;
+    color: #FFA500 !important;
+    font-family: 'Segoe UI', 'Lato', 'Roboto', sans-serif;
+}
+
+/* Títulos principales */
+h1, h2, h3, h4 {
+    color: #FFB347 !important;
+    font-weight: 600;
+}
+
+/* Botones */
+button[kind="primary"] {
+    background-color: #FFA500 !important;
+    color: #0B1F3A !important;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+button:hover {
+    background-color: #FF8C00 !important;
+    color: #ffffff !important;
+}
+
+/* Cuadros y containers */
+.stContainer, .stMarkdown, .stDataFrame, .css-1cpxqw2 {
+    background-color: #132B4E !important;
+    color: #FFA500 !important;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/* Inputs y subcomponentes */
+input, select, textarea {
+    background-color: #1C3B63 !important;
+    color: #FFA500 !important;
+    border: 1px solid #FFA500 !important;
+}
+
+/* Mensajes (success, warning, error) */
+.stAlert {
+    border-left: 6px solid #FFA500;
+    background-color: #1A1A1A;
+    color: #FFD580;
+}
+
+/* Métricas */
+[data-testid="stMetricValue"] {
+    color: #FFA500 !important;
+}
+
+/* Pie chart */
+svg g text {
+    fill: #FFA500 !important;
+}
